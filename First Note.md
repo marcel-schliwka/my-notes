@@ -1,0 +1,1 @@
+This is my first note took with Obsidian Markdown Editor!
